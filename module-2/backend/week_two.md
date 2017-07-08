@@ -41,7 +41,7 @@ Team.find(4).owner.name
 
 Students and Teachers could have a one(Teachers)-to-many(Students) relationship or a many-to-many relationship.
 
-Schema diagram for student-teacher join table -> http://imgur.com/a/XaGsZ
+Schema diagram for student-teacher join table -> [link to schema](http://imgur.com/a/XaGsZ)
 
 6. Define foreign key, primary key, and schema.
 
@@ -87,7 +87,7 @@ created_at and updated_at
 
 Students and Teachers could have a one(Teachers)-to-many(Students) relationship or a many-to-many relationship.
 
-Schema diagram for student-teacher join table -> http://imgur.com/a/XaGsZ
+Schema diagram for student-teacher join table -> [link to schema](http://imgur.com/a/XaGsZ)
 
 5. In the same database, what will you need to do to create this relationship (draw a schema diagram)?
 
